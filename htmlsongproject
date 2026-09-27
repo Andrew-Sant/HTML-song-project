@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- this is for the tab title-->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="comp1002-verify" content="track-alpha">
+        <meta name="format-detection" content="telephone=no, date=no, address=no, email=no">
+        <title>2 Hard 4 The Radio</title>
+    </head>
+    <body>
+        <!--this is the sub header-->
+        <header>
+            <h1>2 Hard 4 The Radio</h1>
+            <h2>Artist: Drake(Real name Aubrey Drake Graham)</h2>
+            <nav>
+                <ul>
+                    <li>
+                        <!--youtube link for the video-->
+                        <a href="https://youtu.be/ESRCdJHbvnU?si=nXTMIeMe2kIJ5Sq_">2 Hard 4 The Radio</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <!--Album cover for song-->
+            <section>
+                <h3>Album Cover</h3>
+                <figure>
+                    <img src="images/album-cover.jpg" alt="Album cover for 2 Hard 4 The radio by Drake">
+                </figure>
+            </section>
+
+
+            <!--lyrics for the song-->
+            <section>
+                <p>[Intro]</p>
+                <p>Yeah</p>
+                <p>Ayy, ayy, ayy</p>
+                <p>Ayy, whoa, yeah, ayy</p>
+                <p>Alright, look</p>
+                <p>Listen up, it's about to be smoke</p>
+                <p>Ain't nothin' but some shit I wrote</p>
+                <p>About a rich-ass nigga that's deep in the game</p>
+                <p>They call me Drizzy Drake and I'm keepin' the name</p>
+                <p>I sport Nike shoes, I got a mic to use</p>
+                <p>To talk bad about you pussies, I don't like you fools</p>
+                <p>Got an Oakland show tonight, baby</p>                                        
+                <p>My young boys from The Yoc goin' crazy</p>
+                <p>I'm on the bridge with a tank of unleaded</p>
+                <p>I pull up early to that bitch</p>
+                <p>That bitch was yankin' already, I said, "Yank"</p>
+                <p>In the city and I really got rank</p>
+                <p>You see the backpack to the front, you gettin' spanked</p>
+                <p>I really blow M's for the fun of it</p>
+                <p>New owl, blue diamonds on the front of it</p>
+                <p>Shout my lil' cousin, Mr. Havin' None of It</p>
+                <p>Tryna campaign, yeah, Drizzy back runnin' shit</p>
+                <p>Whoa, whoa, livin' large, yeah</p>
+                <p>And I put that on citas and the boulevard</p>
+                <p>When I lost Big Nadia, I took it hard</p>
+                <p>Need to call up a Stark for some Chrome Hearts</p>
+                <p>If you my new girl, girl, you gotta look the part</p>
+                <p>Ayy, it's Mr. Make Her Pipe Down, there he go</p>
+                <p>Yeah, it's Mr. Popstar, that's the way it go</p>
+                <p>Now I'm too hard for the fuckin' radio</p>
+                <p>Too hard for the fuckin' radio</p>
+                <p>Yeah, too hard for the fuckin' radio</p>
+                <p>Too hard for the fuckin' radio</p>
+                <p>Hey, hey</p>
+                <p>What? Yeah, what?</p>
+                <p>I'ma show you what to do, lil' nigga, ayy</p>
+                <p>I'ma show you what to do, lil' boy, ayy</p>
+                <p>I'ma show you what</p>
+                <p>Ayy, first off, I make real town smacks</p>
+                <p>Boy, you know the motto, gotta push it to the mack</p>
+                <p>Back when they was askin' 'bout where Davidson was at</p>
+                <p>Now everybody got a blue 30 on they back</p>
+                <p>Mustard heard about us, gotta catch up to the slaps</p>
+                <p>You ain't had one since me and YG rapped</p>
+                <p>Facts, 900 million for the tracks</p>
+                <p>"Rack City, " bitch, we remember that</p>
+                <p>Damn, you should try and get back to that</p>
+                <p>This new shit, you could've kept it on the Laugh Fact'</p>
+                <p>And a nigga doin' laps</p>
+                <p>Strippers on my lap, I'm 'bout to make her back bend</p>
+                <p>Ayy, tell her come and give the boy a lap dance</p>
+                <p>Damn, y'all was really island hoppin' back then</p>
+                <p>Huh, now y'all names got redacted</p>
+                <p>Yeah, now a nigga gotta fact check, what?</p>
+                <p>Yeah, and I'm on the west like the Pac-10</p>
+                <p>Yeah, I'm fuckin' power couples up, yeah</p>
+                <p>Actin' like you love marryin' your wife, ayy</p>
+                <p>You boys need to worry 'bout a jury in your life, ayy</p>
+                <p>Whoa, whoa, livin' large, yeah</p>
+                <p>And I put that on citas and the boulevard</p>
+                <p>When I lost Big Nadia, I took it hard</p>
+                <p>Need to call up a Stark for some Chrome Hearts</p>
+                <p>If you my new girl, girl, you gotta look the part</p>
+                <p>Ayy, it's Mr. Make Her Pipe Down, there he go</p>
+                <p>Yeah, it's Mr. Popstar, that's the way it go</p>
+                <p>Now I'm too hard for the fuckin' radio</p>
+                <p>Too hard for the fuckin' radio</p>
+                <p>Yeah, too hard for the fuckin' radio</p>
+                <p>Too hard for the fuckin' radio</p>
+                </div>
+            </section>
+            
+            <section>
+                <h3>Favourite Lyric Feedback</h3>
+                <!--Rating song-->
+                <form action="#" method="post">
+
+                    <label for="rating">Song's Rating;</label>
+                    <select id="rating" name="rating">
+                        <option value="1">1 - Not for me</option>
+                        <option value="2">2 - Meh</option>
+                        <option value="3">3 - Good</option>
+                        <option value="4">4 - Pretty Good</option>
+                        <option value="5">5 - Excellent would reccomend to others</option>
+                    </select>
+                    <!--giving feedback on favourite lyric-->
+                    <label for="Favourite-Lyric">Favourite-Lyric:</label>
+                    <textarea id="Favourite-Lyric" name="Favourite-Lyric" rows="5" cols="40"></textarea>
+
+                    <button type="buttons">Submit</button>
+                </form>
+            </section>
+        </main>
+        <footer>
+            <!--copyright footer-->
+            <h6>&copy; 2026 Song Code</h6>
+        </footer>
+    </body>
+</html>
